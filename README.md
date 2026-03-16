@@ -1,1 +1,1 @@
-# Introductory tutorials for Introduction to Deep Learning practice with Pytorch
+# Tutorials for Introduction to Deep Learning practice with Pytorch
