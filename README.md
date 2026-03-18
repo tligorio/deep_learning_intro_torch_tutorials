@@ -16,13 +16,13 @@ Implements a perceptron from scratch and trains it on the Iris dataset, covering
 
 ---
 
-### Lab 3 — ANN Classification
+### Lab 3 — NN Classification
 Builds a fully connected neural network for binary classification on a non-linearly separable dataset (spirals), exploring activation functions (Sigmoid, Tanh, ReLU) and why a multi-layer network with non-linear activations can learn boundaries that a single perceptron cannot.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/deep_learning_intro_torch_tutorials/blob/main/Lab3_NN-Classification_torch.ipynb)
 
 ---
 
-### Lab 4 — ANN Image Classification
+### Lab 4 — NN Image Classification
 Trains a fully connected feedforward network on the Fashion MNIST dataset using PyTorch Lightning, covering early stopping, model checkpoints, and training visualization with TensorBoard.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/deep_learning_intro_torch_tutorials/blob/main/Lab4_NN-Images_torch.ipynb)
 
