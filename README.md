@@ -30,4 +30,4 @@ Trains a fully connected feedforward network on the Fashion MNIST dataset using 
 
 ### Lab 5 — DNN Regression
 Applies a deep neural network to the California Housing Prices regression task using PyTorch, incorporating techniques such as batch normalization, dropout, and learning rate scheduling.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/deep_learning_intro_torch_tutorials/blob/main/Lab5-DNN-Regression_torch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/deep_learning_intro_torch_tutorials/blob/main/Lab5_DNN_Regression_torch.ipynb)
