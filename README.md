@@ -12,7 +12,7 @@ Introduces the supervised learning workflow: data exploration, train/test splitt
 
 ### Lab 2 — Perceptron
 Implements a perceptron from scratch and trains it on the Iris dataset, covering the perceptron learning rule, binary classification, and decision boundaries.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/deep_learning_intro_torch_tutorials/blob/main/deep_learning_intro_torch_tutorials/Lab2_Perceptron_torch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/deep_learning_intro_torch_tutorials/blob/main/Lab2_Perceptron_torch.ipynb)
 
 ---
 
